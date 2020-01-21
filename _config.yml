@@ -1,7 +1,7 @@
 # Site settings
-title: Eventually
-email: youremailaddress@gmail.com
-description: A simple template for telling the world when you'll launch your next big thing. Brought to you by HTML5 UP.
+title: Tech6
+email: alunje73@gmail.com
+description: We're building something cool and would like to keep you updated and in the loop. <br> If you're interested kindly join our mailing list and we'll let you know when Tech6 will be ready for testing
 baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -9,13 +9,13 @@ url: "" # the base hostname & protocol for your site
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+gitlab_url: 
+googleplus_url: 
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # Build settings
 markdown: kramdown
