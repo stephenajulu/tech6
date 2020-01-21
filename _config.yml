@@ -2,7 +2,7 @@
 title: Tech6
 email: alunje73@gmail.com
 description: We're building something cool and would like to keep you updated and in the loop. <br> If you're interested kindly join our mailing list and we'll let you know when Tech6 will be ready for testing
-baseurl: "/tech6" # the subpath of your site, e.g. /blog
+baseurl: "/tech6/" # the subpath of your site, e.g. /blog
 url: "stephenajulu.com" # the base hostname & protocol for your site
 
 # Social settings
