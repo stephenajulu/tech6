@@ -1,7 +1,7 @@
 # Site settings
 title: Tech6
 email: alunje73@gmail.com
-description: We're building something cool for all tech enthusiasts and would like to keep you updated and in the loop. <br> If you're interested kindly join our mailing list and we'll let you know when Tech6 will be ready for testing and/or public release <br> There are offers for first comers!
+description: We're building something cool for all tech enthusiasts and would like to keep you updated and in the loop. <br> If you're interested kindly join our mailing list and we'll let you know when Tech6 will be ready for testing and/or public release. <br> There will be excting offers for pre-release subscribers!
 baseurl: "/tech6/" # the subpath of your site, e.g. /blog
 url: "https://stephenajulu.com" # the base hostname & protocol for your site
 
